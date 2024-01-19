@@ -46,7 +46,7 @@
               "outputHashing": "all"
             },
             "development": {
-              "buildOptimizer": false,
+              "buildOptimizer": true,
               "optimization": false,
               "vendorChunk": true,
               "extractLicenses": false,
@@ -60,10 +60,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "IOC-SurveyJS:build:production"
+              "buildTarget": "IOC-SurveyJS:build:production"
             },
             "development": {
-              "browserTarget": "IOC-SurveyJS:build:development"
+              "buildTarget": "IOC-SurveyJS:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -71,7 +71,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "IOC-SurveyJS:build"
+            "buildTarget": "IOC-SurveyJS:build"
           }
         },
         "test": {

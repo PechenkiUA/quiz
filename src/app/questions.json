@@ -1,0 +1,230 @@
+[
+  {
+    "type": "single",
+    "title": "Як ви визначаєте, чи потрібно веб-сайту оновлення?",
+    "description": "Оберіть правильну відповідь",
+    "displayImage": "",
+    "answers": [
+      { "displayText": "Перевіряю нові версії браузера та плагінів", "value": 1, "displayImage": "" },
+      { "displayText": "Чекаю на офіційне повідомлення від розробників", "value": 0, "displayImage": "" },
+      { "displayText": "Оновлюю веб-сайти регулярно, незалежно від оголошень", "value": 0, "displayImage": "" },
+      { "displayText": "Ніколи не оновлюю веб-сайти", "value": 0, "displayImage": "" }
+    ]
+  },
+  {
+    "type": "single",
+    "title": "Як правильно виконати оновлення веб-сторінки безпеки?",
+    "description": "Оберіть правильну відповідь",
+    "displayImage": "",
+    "answers": [
+      { "displayText": "Клацнути на кнопці 'Оновити' браузера", "value": 1, "displayImage": "" },
+      { "displayText": "Використовувати додатковий плагін для оновлення", "value": 0, "displayImage": "" },
+      { "displayText": "Почекати, доки веб-сторінка оновиться самостійно", "value": 0, "displayImage": "" },
+      { "displayText": "Відправити листа розробникам і попросити їх оновити", "value": 0, "displayImage": "" }
+    ]
+  },
+  {
+    "type": "single",
+    "title": "Як виправити проблеми з підключенням принтера?",
+    "description": "Оберіть правильну відповідь",
+    "displayImage": "",
+    "answers": [
+      { "displayText": "Перевірити підключення кабелів та живлення", "value": 1, "displayImage": "" },
+      { "displayText": "Почекати, поки проблема вирішиться сама собою", "value": 0, "displayImage": "" },
+      { "displayText": "Вимкнути комп'ютер та включити знову", "value": 0, "displayImage": "" },
+      { "displayText": "Видалити принтер і знову його додати", "value": 0, "displayImage": "" }
+    ]
+  },
+  {
+    "type": "single",
+    "title": "Як вибрати тип паперу для друку на принтері?",
+    "description": "Оберіть правильну відповідь",
+    "displayImage": "",
+    "answers": [
+      { "displayText": "Вказати тип паперу у налаштуваннях друку перед друкуванням", "value": 1, "displayImage": "" },
+      { "displayText": "Використовувати лише стандартний тип паперу", "value": 0, "displayImage": "" },
+      { "displayText": "Підставити будь-який доступний тип, навіть якщо не відомо, що це", "value": 0, "displayImage": "" },
+      { "displayText": "Попросити когось вибрати за вас", "value": 0, "displayImage": "" }
+    ]
+  },
+  {
+    "type": "single",
+    "title": "Як вирішити проблему з відсутнім звуком на комп'ютері?",
+    "description": "Оберіть правильну відповідь",
+    "displayImage": "",
+    "answers": [
+      { "displayText": "Перевірити, чи підключені навушники або колонки", "value": 1, "displayImage": "" },
+      { "displayText": "Зменшити гучність і знову збільшити", "value": 0, "displayImage": "" },
+      { "displayText": "Вимкнути комп'ютер і увімкнути знову", "value": 0, "displayImage": "" },
+      { "displayText": "Почекати, доки звук сам повернеться", "value": 0, "displayImage": "" }
+    ]
+  },
+  {
+    "type": "single",
+    "title": "Як виправити помилку 'Немає доступу до Інтернету'?",
+    "description": "Оберіть правильну відповідь",
+    "displayImage": "",
+    "answers": [
+      { "displayText": "Перевірити підключення до мережі та перезапустити роутер", "value": 1, "displayImage": "" },
+      { "displayText": "Подивитися відео на YouTube про вирішення проблем з Інтернетом", "value": 0, "displayImage": "" },
+      { "displayText": "Змінити провайдера Інтернету", "value": 0, "displayImage": "" },
+      { "displayText": "Скачати новий браузер", "value": 0, "displayImage": "" }
+    ]
+  },
+  {
+    "type": "single",
+    "title": "Як перевірити конфігурацію системи на Windows?",
+    "description": "Оберіть правильну відповідь",
+    "displayImage": "",
+    "answers": [
+      { "displayText": "Використовувати 'Системні налаштування' в Панелі управління", "value": 1, "displayImage": "" },
+      { "displayText": "Подивитися у 'Меню Пуск'", "value": 0, "displayImage": "" },
+      { "displayText": "Питати інших про конфігурацію", "value": 0, "displayImage": "" },
+      { "displayText": "Випадково натискати клавіші і дивитися, що відбудеться", "value": 0, "displayImage": "" }
+    ]
+  },
+  {
+    "type": "single",
+    "title": "Як змінити пароль на Windows?",
+    "description": "Оберіть правильну відповідь",
+    "displayImage": "",
+    "answers": [
+      { "displayText": "Використовувати 'Центр управління обліковими записами'", "value": 1, "displayImage": "" },
+      { "displayText": "Написати пароль на папері та прикріпити до монітора", "value": 0, "displayImage": "" },
+      { "displayText": "Залишити пароль таким, яким він є", "value": 0, "displayImage": "" },
+      { "displayText": "Спитати у колег, як змінити пароль", "value": 0, "displayImage": "" }
+    ]
+  },
+  {
+    "type": "single",
+    "title": "Що робити, якщо комп'ютер не вмикається?",
+    "description": "Оберіть правильну відповідь",
+    "displayImage": "",
+    "answers": [
+      { "displayText": "Перевірити живлення та підключення до розетки", "value": 1, "displayImage": "" },
+      { "displayText": "Зачекати, можливо, він вмикається дуже повільно", "value": 0, "displayImage": "" },
+      { "displayText": "Вимкнути й увімкнути кілька разів", "value": 0, "displayImage": "" },
+      { "displayText": "Забрати його до сервісного центру", "value": 0, "displayImage": "" }
+    ]
+  },
+  {
+    "type": "single",
+    "title": "Як вибрати працюючий антивірус для комп'ютера?",
+    "description": "Оберіть правильну відповідь",
+    "displayImage": "",
+    "answers": [
+      { "displayText": "Перевірити рейтинг та відгуки про антивірусні програми", "value": 1, "displayImage": "" },
+      { "displayText": "Вибрати найдорожчий антивірус, бо він найкращий", "value": 0, "displayImage": "" },
+      { "displayText": "Використовувати будь-який без перевірки", "value": 0, "displayImage": "" },
+      { "displayText": "Запитати друзів, який антивірус у них встановлено", "value": 0, "displayImage": "" }
+    ]
+  },{
+  "type": "single",
+  "title": "Як виправити помилку '404 Not Found' на веб-сайті?",
+  "description": "Оберіть правильну відповідь",
+  "displayImage": "",
+  "answers": [
+    { "displayText": "Створити нову сторінку з контентом", "value": 0, "displayImage": "" },
+    { "displayText": "Виправити посилання на існуючу сторінку", "value": 1, "displayImage": "" },
+    { "displayText": "Видалити всі сторінки і почати спочатку", "value": 0, "displayImage": "" },
+    { "displayText": "Змінити дизайн сайту", "value": 0, "displayImage": "" }
+  ]
+},
+  {
+    "type": "single",
+    "title": "Як відновити файли, які були видалені з комп'ютера?",
+    "description": "Оберіть правильну відповідь",
+    "displayImage": "",
+    "answers": [
+      { "displayText": "Використати програму для відновлення даних", "value": 1, "displayImage": "" },
+      { "displayText": "Перезавантажити комп'ютер", "value": 0, "displayImage": "" },
+      { "displayText": "Скасувати дію та відновити файли з кошика", "value": 0, "displayImage": "" },
+      { "displayText": "Створити нові файли та забути про втрачені", "value": 0, "displayImage": "" }
+    ]
+  },
+  {
+    "type": "single",
+    "title": "Як відключити автоматичне оновлення операційної системи?",
+    "description": "Оберіть правильну відповідь",
+    "displayImage": "",
+    "answers": [
+      { "displayText": "Не можна відключити, це важливо для безпеки", "value": 0, "displayImage": "" },
+      { "displayText": "Відправити листа у техпідтримку і попросити відключити", "value": 0, "displayImage": "" },
+      { "displayText": "Зайти в налаштування та вимкнути автоматичні оновлення", "value": 1, "displayImage": "" },
+      { "displayText": "Встановити сторонній антивірус без автоматичних оновлень", "value": 0, "displayImage": "" }
+    ]
+  },
+  {
+    "type": "single",
+    "title": "Що робити, якщо принтер не друкує?",
+    "description": "Оберіть правильну відповідь",
+    "displayImage": "",
+    "answers": [
+      { "displayText": "Перевірити, чи є папір у лотку та чи не закінчився чорнильний картридж", "value": 1, "displayImage": "" },
+      { "displayText": "Продовжити натисканням на кнопку 'Друкувати'", "value": 0, "displayImage": "" },
+      { "displayText": "Скасувати всі завдання друку та вийти з системи", "value": 0, "displayImage": "" },
+      { "displayText": "Перезавантажити комп'ютер та принтер", "value": 0, "displayImage": "" }
+    ]
+  },
+  {
+    "type": "single",
+    "title": "Як визначити, яка версія браузера установлена на комп'ютері?",
+    "description": "Оберіть правильну відповідь",
+    "displayImage": "",
+    "answers": [
+      { "displayText": "Перевірити в системних налаштуваннях", "value": 0, "displayImage": "" },
+      { "displayText": "Використати функцію 'Оновити'", "value": 0, "displayImage": "" },
+      { "displayText": "Переглянути в налаштуваннях браузера", "value": 1, "displayImage": "" },
+      { "displayText": "Запустити команду 'browser_version' у командному рядку", "value": 0, "displayImage": "" }
+    ]
+  },
+  {
+    "type": "single",
+    "title": "Як встановити стандартний принтер за замовчуванням?",
+    "description": "Оберіть правильну відповідь",
+    "displayImage": "",
+    "answers": [
+      { "displayText": "Вибрати принтер за замовчуванням у налаштуваннях операційної системи", "value": 1, "displayImage": "" },
+      { "displayText": "Змінити принтер у кожному програмному продукті окремо", "value": 0, "displayImage": "" },
+      { "displayText": "Змінити принтер, використовуючи кнопку 'Друк'", "value": 0, "displayImage": "" },
+      { "displayText": "Звернутися до техпідтримки і попросити встановити принтер за замовчуванням", "value": 0, "displayImage": "" }
+    ]
+  },
+  {
+    "type": "single",
+    "title": "Як змінити мову відображення операційної системи?",
+    "description": "Оберіть правильну відповідь",
+    "displayImage": "",
+    "answers": [
+      { "displayText": "Звернутися до адміністратора системи", "value": 0, "displayImage": "" },
+      { "displayText": "Змінити мову в налаштуваннях операційної системи", "value": 1, "displayImage": "" },
+      { "displayText": "Перевстановити операційну систему на бажану мову", "value": 0, "displayImage": "" },
+      { "displayText": "Відправити листа з проханням змінити мову адміністратору", "value": 0, "displayImage": "" }
+    ]
+  },
+  {
+    "type": "single",
+    "title": "Як визначити, чи є віруси на комп'ютері?",
+    "description": "Оберіть правильну відповідь",
+    "displayImage": "",
+    "answers": [
+      { "displayText": "Використати антивірусну програму для сканування системи", "value": 1, "displayImage": "" },
+      { "displayText": "Ігнорувати будь-які попередження", "value": 0, "displayImage": "" },
+      { "displayText": "Вимкнути антивірус і подивитися, що відбудеться", "value": 0, "displayImage": "" },
+      { "displayText": "Відправити листа в техпідтримку і попросити перевірити", "value": 0, "displayImage": "" }
+    ]
+  },
+  {
+    "type": "single",
+    "title": "Як змінити роздільну здатність екрану на комп'ютері?",
+    "description": "Оберіть правильну відповідь",
+    "displayImage": "",
+    "answers": [
+      { "displayText": "Змінити роздільну здатність в налаштуваннях дисплея", "value": 1, "displayImage": "" },
+      { "displayText": "Змінити роздільну здатність у налаштуваннях відеокарти", "value": 0, "displayImage": "" },
+      { "displayText": "Використати спеціальну програму для зміни роздільної здатності", "value": 0, "displayImage": "" },
+      { "displayText": "Відправити листа в техпідтримку і попросити налаштувати роздільну здатність", "value": 0, "displayImage": "" }
+    ]
+  }
+
+]
