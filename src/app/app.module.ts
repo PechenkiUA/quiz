@@ -3,15 +3,17 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 import { NgxQuizModule } from 'ngx-quiz';
+import {FormsModule} from "@angular/forms";
 
 @NgModule({
   declarations: [
     AppComponent
   ],
-  imports: [
-    BrowserModule,
-    NgxQuizModule
-  ],
+    imports: [
+        BrowserModule,
+        NgxQuizModule,
+        FormsModule
+    ],
   providers: [],
   bootstrap: [AppComponent]
 })

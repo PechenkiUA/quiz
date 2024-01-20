@@ -1,230 +1,222 @@
-[
-  {
-    "type": "single",
-    "title": "Як ви визначаєте, чи потрібно веб-сайту оновлення?",
-    "description": "Оберіть правильну відповідь",
-    "displayImage": "",
-    "answers": [
-      { "displayText": "Перевіряю нові версії браузера та плагінів", "value": 1, "displayImage": "" },
-      { "displayText": "Чекаю на офіційне повідомлення від розробників", "value": 0, "displayImage": "" },
-      { "displayText": "Оновлюю веб-сайти регулярно, незалежно від оголошень", "value": 0, "displayImage": "" },
-      { "displayText": "Ніколи не оновлюю веб-сайти", "value": 0, "displayImage": "" }
-    ]
-  },
-  {
-    "type": "single",
-    "title": "Як правильно виконати оновлення веб-сторінки безпеки?",
-    "description": "Оберіть правильну відповідь",
-    "displayImage": "",
-    "answers": [
-      { "displayText": "Клацнути на кнопці 'Оновити' браузера", "value": 1, "displayImage": "" },
-      { "displayText": "Використовувати додатковий плагін для оновлення", "value": 0, "displayImage": "" },
-      { "displayText": "Почекати, доки веб-сторінка оновиться самостійно", "value": 0, "displayImage": "" },
-      { "displayText": "Відправити листа розробникам і попросити їх оновити", "value": 0, "displayImage": "" }
-    ]
-  },
-  {
-    "type": "single",
-    "title": "Як виправити проблеми з підключенням принтера?",
-    "description": "Оберіть правильну відповідь",
-    "displayImage": "",
-    "answers": [
-      { "displayText": "Перевірити підключення кабелів та живлення", "value": 1, "displayImage": "" },
-      { "displayText": "Почекати, поки проблема вирішиться сама собою", "value": 0, "displayImage": "" },
-      { "displayText": "Вимкнути комп'ютер та включити знову", "value": 0, "displayImage": "" },
-      { "displayText": "Видалити принтер і знову його додати", "value": 0, "displayImage": "" }
-    ]
-  },
-  {
-    "type": "single",
-    "title": "Як вибрати тип паперу для друку на принтері?",
-    "description": "Оберіть правильну відповідь",
-    "displayImage": "",
-    "answers": [
-      { "displayText": "Вказати тип паперу у налаштуваннях друку перед друкуванням", "value": 1, "displayImage": "" },
-      { "displayText": "Використовувати лише стандартний тип паперу", "value": 0, "displayImage": "" },
-      { "displayText": "Підставити будь-який доступний тип, навіть якщо не відомо, що це", "value": 0, "displayImage": "" },
-      { "displayText": "Попросити когось вибрати за вас", "value": 0, "displayImage": "" }
-    ]
-  },
-  {
-    "type": "single",
-    "title": "Як вирішити проблему з відсутнім звуком на комп'ютері?",
-    "description": "Оберіть правильну відповідь",
-    "displayImage": "",
-    "answers": [
-      { "displayText": "Перевірити, чи підключені навушники або колонки", "value": 1, "displayImage": "" },
-      { "displayText": "Зменшити гучність і знову збільшити", "value": 0, "displayImage": "" },
-      { "displayText": "Вимкнути комп'ютер і увімкнути знову", "value": 0, "displayImage": "" },
-      { "displayText": "Почекати, доки звук сам повернеться", "value": 0, "displayImage": "" }
-    ]
-  },
-  {
-    "type": "single",
-    "title": "Як виправити помилку 'Немає доступу до Інтернету'?",
-    "description": "Оберіть правильну відповідь",
-    "displayImage": "",
-    "answers": [
-      { "displayText": "Перевірити підключення до мережі та перезапустити роутер", "value": 1, "displayImage": "" },
-      { "displayText": "Подивитися відео на YouTube про вирішення проблем з Інтернетом", "value": 0, "displayImage": "" },
-      { "displayText": "Змінити провайдера Інтернету", "value": 0, "displayImage": "" },
-      { "displayText": "Скачати новий браузер", "value": 0, "displayImage": "" }
-    ]
-  },
-  {
-    "type": "single",
-    "title": "Як перевірити конфігурацію системи на Windows?",
-    "description": "Оберіть правильну відповідь",
-    "displayImage": "",
-    "answers": [
-      { "displayText": "Використовувати 'Системні налаштування' в Панелі управління", "value": 1, "displayImage": "" },
-      { "displayText": "Подивитися у 'Меню Пуск'", "value": 0, "displayImage": "" },
-      { "displayText": "Питати інших про конфігурацію", "value": 0, "displayImage": "" },
-      { "displayText": "Випадково натискати клавіші і дивитися, що відбудеться", "value": 0, "displayImage": "" }
-    ]
-  },
-  {
-    "type": "single",
-    "title": "Як змінити пароль на Windows?",
-    "description": "Оберіть правильну відповідь",
-    "displayImage": "",
-    "answers": [
-      { "displayText": "Використовувати 'Центр управління обліковими записами'", "value": 1, "displayImage": "" },
-      { "displayText": "Написати пароль на папері та прикріпити до монітора", "value": 0, "displayImage": "" },
-      { "displayText": "Залишити пароль таким, яким він є", "value": 0, "displayImage": "" },
-      { "displayText": "Спитати у колег, як змінити пароль", "value": 0, "displayImage": "" }
-    ]
-  },
-  {
-    "type": "single",
-    "title": "Що робити, якщо комп'ютер не вмикається?",
-    "description": "Оберіть правильну відповідь",
-    "displayImage": "",
-    "answers": [
-      { "displayText": "Перевірити живлення та підключення до розетки", "value": 1, "displayImage": "" },
-      { "displayText": "Зачекати, можливо, він вмикається дуже повільно", "value": 0, "displayImage": "" },
-      { "displayText": "Вимкнути й увімкнути кілька разів", "value": 0, "displayImage": "" },
-      { "displayText": "Забрати його до сервісного центру", "value": 0, "displayImage": "" }
-    ]
-  },
-  {
-    "type": "single",
-    "title": "Як вибрати працюючий антивірус для комп'ютера?",
-    "description": "Оберіть правильну відповідь",
-    "displayImage": "",
-    "answers": [
-      { "displayText": "Перевірити рейтинг та відгуки про антивірусні програми", "value": 1, "displayImage": "" },
-      { "displayText": "Вибрати найдорожчий антивірус, бо він найкращий", "value": 0, "displayImage": "" },
-      { "displayText": "Використовувати будь-який без перевірки", "value": 0, "displayImage": "" },
-      { "displayText": "Запитати друзів, який антивірус у них встановлено", "value": 0, "displayImage": "" }
-    ]
-  },{
-  "type": "single",
-  "title": "Як виправити помилку '404 Not Found' на веб-сайті?",
-  "description": "Оберіть правильну відповідь",
-  "displayImage": "",
-  "answers": [
-    { "displayText": "Створити нову сторінку з контентом", "value": 0, "displayImage": "" },
-    { "displayText": "Виправити посилання на існуючу сторінку", "value": 1, "displayImage": "" },
-    { "displayText": "Видалити всі сторінки і почати спочатку", "value": 0, "displayImage": "" },
-    { "displayText": "Змінити дизайн сайту", "value": 0, "displayImage": "" }
-  ]
-},
-  {
-    "type": "single",
-    "title": "Як відновити файли, які були видалені з комп'ютера?",
-    "description": "Оберіть правильну відповідь",
-    "displayImage": "",
-    "answers": [
-      { "displayText": "Використати програму для відновлення даних", "value": 1, "displayImage": "" },
-      { "displayText": "Перезавантажити комп'ютер", "value": 0, "displayImage": "" },
-      { "displayText": "Скасувати дію та відновити файли з кошика", "value": 0, "displayImage": "" },
-      { "displayText": "Створити нові файли та забути про втрачені", "value": 0, "displayImage": "" }
-    ]
-  },
-  {
-    "type": "single",
-    "title": "Як відключити автоматичне оновлення операційної системи?",
-    "description": "Оберіть правильну відповідь",
-    "displayImage": "",
-    "answers": [
-      { "displayText": "Не можна відключити, це важливо для безпеки", "value": 0, "displayImage": "" },
-      { "displayText": "Відправити листа у техпідтримку і попросити відключити", "value": 0, "displayImage": "" },
-      { "displayText": "Зайти в налаштування та вимкнути автоматичні оновлення", "value": 1, "displayImage": "" },
-      { "displayText": "Встановити сторонній антивірус без автоматичних оновлень", "value": 0, "displayImage": "" }
-    ]
-  },
-  {
-    "type": "single",
-    "title": "Що робити, якщо принтер не друкує?",
-    "description": "Оберіть правильну відповідь",
-    "displayImage": "",
-    "answers": [
-      { "displayText": "Перевірити, чи є папір у лотку та чи не закінчився чорнильний картридж", "value": 1, "displayImage": "" },
-      { "displayText": "Продовжити натисканням на кнопку 'Друкувати'", "value": 0, "displayImage": "" },
-      { "displayText": "Скасувати всі завдання друку та вийти з системи", "value": 0, "displayImage": "" },
-      { "displayText": "Перезавантажити комп'ютер та принтер", "value": 0, "displayImage": "" }
-    ]
-  },
-  {
-    "type": "single",
-    "title": "Як визначити, яка версія браузера установлена на комп'ютері?",
-    "description": "Оберіть правильну відповідь",
-    "displayImage": "",
-    "answers": [
-      { "displayText": "Перевірити в системних налаштуваннях", "value": 0, "displayImage": "" },
-      { "displayText": "Використати функцію 'Оновити'", "value": 0, "displayImage": "" },
-      { "displayText": "Переглянути в налаштуваннях браузера", "value": 1, "displayImage": "" },
-      { "displayText": "Запустити команду 'browser_version' у командному рядку", "value": 0, "displayImage": "" }
-    ]
-  },
-  {
-    "type": "single",
-    "title": "Як встановити стандартний принтер за замовчуванням?",
-    "description": "Оберіть правильну відповідь",
-    "displayImage": "",
-    "answers": [
-      { "displayText": "Вибрати принтер за замовчуванням у налаштуваннях операційної системи", "value": 1, "displayImage": "" },
-      { "displayText": "Змінити принтер у кожному програмному продукті окремо", "value": 0, "displayImage": "" },
-      { "displayText": "Змінити принтер, використовуючи кнопку 'Друк'", "value": 0, "displayImage": "" },
-      { "displayText": "Звернутися до техпідтримки і попросити встановити принтер за замовчуванням", "value": 0, "displayImage": "" }
-    ]
-  },
-  {
-    "type": "single",
-    "title": "Як змінити мову відображення операційної системи?",
-    "description": "Оберіть правильну відповідь",
-    "displayImage": "",
-    "answers": [
-      { "displayText": "Звернутися до адміністратора системи", "value": 0, "displayImage": "" },
-      { "displayText": "Змінити мову в налаштуваннях операційної системи", "value": 1, "displayImage": "" },
-      { "displayText": "Перевстановити операційну систему на бажану мову", "value": 0, "displayImage": "" },
-      { "displayText": "Відправити листа з проханням змінити мову адміністратору", "value": 0, "displayImage": "" }
-    ]
-  },
-  {
-    "type": "single",
-    "title": "Як визначити, чи є віруси на комп'ютері?",
-    "description": "Оберіть правильну відповідь",
-    "displayImage": "",
-    "answers": [
-      { "displayText": "Використати антивірусну програму для сканування системи", "value": 1, "displayImage": "" },
-      { "displayText": "Ігнорувати будь-які попередження", "value": 0, "displayImage": "" },
-      { "displayText": "Вимкнути антивірус і подивитися, що відбудеться", "value": 0, "displayImage": "" },
-      { "displayText": "Відправити листа в техпідтримку і попросити перевірити", "value": 0, "displayImage": "" }
-    ]
-  },
-  {
-    "type": "single",
-    "title": "Як змінити роздільну здатність екрану на комп'ютері?",
-    "description": "Оберіть правильну відповідь",
-    "displayImage": "",
-    "answers": [
-      { "displayText": "Змінити роздільну здатність в налаштуваннях дисплея", "value": 1, "displayImage": "" },
-      { "displayText": "Змінити роздільну здатність у налаштуваннях відеокарти", "value": 0, "displayImage": "" },
-      { "displayText": "Використати спеціальну програму для зміни роздільної здатності", "value": 0, "displayImage": "" },
-      { "displayText": "Відправити листа в техпідтримку і попросити налаштувати роздільну здатність", "value": 0, "displayImage": "" }
-    ]
-  }
 
-]
+  [
+    {
+      "type": "single",
+      "title": "Як додати новий матеріал на сайті з використанням CMS WordPress?",
+      "description": "Опишіть процес додавання нового матеріалу на WordPress сайт.",
+      "displayImage": "",
+      "answers": [
+        { "displayText": "Перейти в адмін-панель, обрати розділ 'Додати матеріал'", "value": 1, "displayImage": "" },
+        { "displayText": "Створити новий файл HTML і вставити його в кореневу директорію", "value": 0, "displayImage": "" },
+        { "displayText": "Використовувати FTP для завантаження матеріалів", "value": 0, "displayImage": "" },
+        { "displayText": "Змінити код сайту безпосередньо в базі даних", "value": 0, "displayImage": "" }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Як підключити новий принтер до комп'ютера?",
+      "description": "Опишіть кроки підключення нового принтера до комп'ютера.",
+      "displayImage": "",
+      "answers": [
+        { "displayText": "Запустити додаток 'Принтери та сканери' та вибрати новий пристрій", "value": 0, "displayImage": "" },
+        { "displayText": "Встановити драйвери принтера з інтернету", "value": 0, "displayImage": "" },
+        { "displayText": "Підключити принтер до комп'ютера за допомогою USB-кабелю", "value": 1, "displayImage": "" },
+        { "displayText": "Просто підключити принтер, комп'ютер автоматично визнає його", "value": 0, "displayImage": "" }
+      ]
+    }
+    ,
+    {
+      "type": "single",
+      "title": "Які з нижче перерахованих CMS використовуються для створення веб-сайтів?",
+      "description": "Оберіть правильний варіант.",
+      "displayImage": "",
+      "answers": [
+        { "displayText": "WordPress", "value": 1, "displayImage": "" },
+        { "displayText": "Joomla", "value": 1, "displayImage": "" },
+        { "displayText": "Drupal", "value": 1, "displayImage": "" },
+        { "displayText": "Magento", "value": 1, "displayImage": "" }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Як перевірити швидкість інтернет-з'єднання?",
+      "description": "Оберіть правильний варіант.",
+      "displayImage": "",
+      "answers": [
+        { "displayText": "Переглянути кількість індикаторів на модемі", "value": 0, "displayImage": "" },
+        { "displayText": "Використовувати онлайн-сервіси для тестування швидкості", "value": 1, "displayImage": "" },
+        { "displayText": "Перезапустити комп'ютер", "value": 0, "displayImage": "" },
+        { "displayText": "Виміряти час завантаження веб-сторінок", "value": 0, "displayImage": "" }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Як зберегти документ у програмі Microsoft Word?",
+      "description": "Оберіть правильний варіант.",
+      "displayImage": "",
+      "answers": [
+        { "displayText": "Редагувати -> Зберегти", "value": 0, "displayImage": "" },
+        { "displayText": "Щільність -> Зберегти", "value": 0, "displayImage": "" },
+        { "displayText": "Файл -> Зберегти або Файл -> Зберегти як", "value": 1, "displayImage": "" },
+        { "displayText": "Інструменти -> Зберегти", "value": 0, "displayImage": "" }
+      ]
+    },
+    {
+    "type": "single",
+    "title": "Як виконати резервне копіювання веб-сайту на платформі WordPress?",
+    "description": "Оберіть правильний варіант.",
+    "displayImage": "",
+    "answers": [
+      { "displayText": "Створити копію файлів сайту на комп'ютері", "value": 0, "displayImage": "" },
+      { "displayText": "Використовувати плагіни резервного копіювання, такі як UpdraftPlus", "value": 1, "displayImage": "" },
+      { "displayText": "Зберегти текстовий файл із кодом сайту", "value": 0, "displayImage": "" },
+      { "displayText": "Не потрібно робити резервне копіювання", "value": 0, "displayImage": "" }
+    ]
+  },
+    {
+      "type": "single",
+      "title": "Як вирішити проблему з друкаркою, яка не друкує через мережу?",
+      "description": "Оберіть правильний варіант.",
+      "displayImage": "",
+      "answers": [
+        { "displayText": "Перевірити підключення до мережі та відновити з'єднання", "value": 1, "displayImage": "" },
+        { "displayText": "Перезавантажити комп'ютер", "value": 0, "displayImage": "" },
+        { "displayText": "Замінити картридж у принтері", "value": 0, "displayImage": "" },
+        { "displayText": "Відправити документ на друку знову", "value": 0, "displayImage": "" }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Як перевірити стан мережі інтернет на комп'ютері?",
+      "description": "Оберіть правильний варіант.",
+      "displayImage": "",
+      "answers": [
+        { "displayText": "Переглянути кабельні з'єднання", "value": 0, "displayImage": "" },
+        { "displayText": "Перезавантажити роутер", "value": 0, "displayImage": "" },
+        { "displayText": "Відключити і знову підключити мережевий кабель", "value": 0, "displayImage": "" },
+        { "displayText": "Використовувати команду ping у командному рядку", "value": 1, "displayImage": "" }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Як відкрити новий документ у програмі Microsoft Excel?",
+      "description": "Оберіть правильний варіант.",
+      "displayImage": "",
+      "answers": [
+        { "displayText": "Відкрити існуючий документ і очистити його", "value": 0, "displayImage": "" },
+        { "displayText": "Файл -> Новий -> Робоча книга", "value": 1, "displayImage": "" },
+        { "displayText": "Створити новий документ через контекстне меню", "value": 0, "displayImage": "" },
+        { "displayText": "Використовувати гарячі клавіші Ctrl + N", "value": 0, "displayImage": "" }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Як встановити новий шаблон на сайті Joomla?",
+      "description": "Оберіть правильний варіант.",
+      "displayImage": "",
+      "answers": [
+        { "displayText": "Використовувати менеджер шаблонів у панелі керування Joomla", "value": 1, "displayImage": "" },
+        { "displayText": "Замінити файли старого шаблону новими вручну", "value": 0, "displayImage": "" },
+        { "displayText": "Видалити всі шаблони і завантажити новий", "value": 0, "displayImage": "" },
+        { "displayText": "Не можна змінювати шаблони в Joomla", "value": 0, "displayImage": "" }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Як перевірити IP-адресу комп'ютера в мережі?",
+      "description": "Оберіть правильний варіант.",
+      "displayImage": "",
+      "answers": [
+        { "displayText": "Переглянути налаштування мережевого з'єднання в панелі керування", "value": 0, "displayImage": "" },
+        { "displayText": "Використовувати команду ipconfig у командному рядку", "value": 1, "displayImage": "" },
+        { "displayText": "Перезавантажити комп'ютер і перевірити на стартовій сторінці", "value": 0, "displayImage": "" },
+        { "displayText": "Використовувати команду ping з іменем хоста", "value": 0, "displayImage": "" }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Як відформатувати текст у програмі Microsoft PowerPoint?",
+      "description": "Оберіть правильний варіант.",
+      "displayImage": "",
+      "answers": [
+        { "displayText": "Змінити розмір шрифту у налаштуваннях презентації", "value": 0, "displayImage": "" },
+        { "displayText": "Використовувати панель інструментів для форматування тексту", "value": 1, "displayImage": "" },
+        { "displayText": "Використовувати гарячі клавіші Ctrl + F", "value": 0, "displayImage": "" },
+        { "displayText": "Видалити текст і ввести його знову", "value": 0, "displayImage": "" }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Як додати новий локальний принтер у системі Windows?",
+      "description": "Оберіть правильний варіант.",
+      "displayImage": "",
+      "answers": [
+        { "displayText": "Використовувати програму встановлення принтера", "value": 0, "displayImage": "" },
+        { "displayText": "Використовувати команду print в командному рядку", "value": 0, "displayImage": "" },
+        { "displayText": "Панель керування -> Принтери та сканери -> Додати пристрій", "value": 1, "displayImage": "" },
+        { "displayText": "Підключити принтер і він автоматично визнається", "value": 0, "displayImage": "" }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Як перевірити пропущені пінги в мережі?",
+      "description": "Оберіть правильний варіант.",
+      "displayImage": "",
+      "answers": [
+        { "displayText": "Перевірити логи маршрутизатора", "value": 0, "displayImage": "" },
+        { "displayText": "Використовувати команду traceroute у командному рядку", "value": 1, "displayImage": "" },
+        { "displayText": "Запустити перевірку мережі в адміністративному вікні", "value": 0, "displayImage": "" },
+        { "displayText": "Використовувати команду netstat", "value": 0, "displayImage": "" }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Як встановити розширення (плагін) на сайті WordPress?",
+      "description": "Оберіть правильний варіант.",
+      "displayImage": "",
+      "answers": [
+        { "displayText": "У панелі керування WordPress вибрати 'Плагіни' -> 'Додати новий' і встановити з офіційного репозиторію", "value": 1, "displayImage": "" },
+        { "displayText": "Завантажити файли плагіна вручну та встановити через FTP", "value": 1, "displayImage": "" },
+        { "displayText": "Використати функціонал теми для встановлення плагінів", "value": 0, "displayImage": "" },
+        { "displayText": "Неможливо встановити розширення на WordPress", "value": 0, "displayImage": "" }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Як відкрити диспетчер завдань у системі Windows?",
+      "description": "Оберіть правильний варіант.",
+      "displayImage": "",
+      "answers": [
+        { "displayText": "Пошук за назвою у меню 'Пуск'", "value": 0, "displayImage": "" },
+        { "displayText": "Натискання клавіш Ctrl + Shift + Esc", "value": 1, "displayImage": "" },
+        { "displayText": "Клік правою кнопкою миші на панелі завдань і вибір 'Диспетчер завдань'", "value": 0, "displayImage": "" },
+        { "displayText": "Використання команди 'taskmgr' у командному рядку", "value": 0, "displayImage": "" }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Як налаштувати автоматичний запуск програми при вході в систему Windows?",
+      "description": "Оберіть правильний варіант.",
+      "displayImage": "",
+      "answers": [
+        { "displayText": "Вставити ярлик програми в папку 'Автозавантаження' у меню 'Пуск'", "value": 0, "displayImage": "" },
+        { "displayText": "Змінити налаштування програми під час її запуску", "value": 0, "displayImage": "" },
+        { "displayText": "Запустити програму і вибрати 'Автозапуск' у меню", "value": 0, "displayImage": "" },
+        { "displayText": "Панель керування -> Адміністративні інструменти -> Завдання планування", "value": 1, "displayImage": "" }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Як створити новий документ у програмі Microsoft Word?",
+      "description": "Оберіть правильний варіант.",
+      "displayImage": "",
+      "answers": [
+        { "displayText": "Файл -> Новий -> Документ", "value": 1, "displayImage": "" },
+        { "displayText": "Використовувати гарячі клавіші Ctrl + N", "value": 0, "displayImage": "" },
+        { "displayText": "Вибрати 'Створити новий' з початкового вікна Word", "value": 0, "displayImage": "" },
+        { "displayText": "Зберегти пустий файл та редагувати його", "value": 0, "displayImage": "" }
+      ]
+    }
+  ]
+
+

@@ -326,9 +326,19 @@
 </div>
 
 <div class="content" role="main">
+  <form *ngIf="!setUserName" class="form">
+    <p style="text-align: center; padding: 5px">Введіть своє ім'я</p>
+    <input [(ngModel)]="user_name" name="user_name" placeholder="Ваше ім'я" value="" style="padding: 5px; border-radius:  5px 0 0 5px;">
+    <button
+            [disabled]="!user_name.trim().length"
+            (click)="nextToQuiz()"
+            style="padding: 5px; border-radius: 0 5px 5px 0;"
+    >Далі</button>
+  </form>
+
+  <ngx-quiz *ngIf="setUserName" #_quizComponent (ngx_quiz_report)="finished($event)"   (ngx_quiz_nextQuestion)="next($event)" [quiz]="quiz"></ngx-quiz>
 
 
-  <ngx-quiz [quiz]="quiz"></ngx-quiz>
 
 
 
